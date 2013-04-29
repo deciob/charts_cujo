@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "curl": "0.7.3",
+    "charter": "https://raw.github.com/deciob/charts/master/dist/charter.js"
+  }
+}

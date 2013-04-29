@@ -1,0 +1,30 @@
+{
+  "name": "charts",
+  "version": "0.0.1",
+  "description": "Some reusable charts based on d3.js",
+  "keywords": ["charts", "d3", "cujo"],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/deciob/charts_cujo"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Decio Battaglia"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "bower": ""
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}
